@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: Secret
+metadata:
+  name: mongo-secret
+type: Opaque
+data:
+  MONGO-USERNAME: VVNFUk5BTUU=
+  MONGO-PASSWORD: UEFTU1dPUkQ=
